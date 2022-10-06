@@ -1,0 +1,36 @@
+{
+  "motociklai": [
+    { "id": 1, "name": "AUDI", "year": 1012, "engine":1.7 },
+    { "id": 2, "name": "Audi", "year": 1002, "engine":1.5 },
+    { "id": 3, "name": "Volvo", "year": 1012, "engine":0.1 },
+    { "id": 4, "name": "Mercedes", "year": 1017, "engine":2.3 },
+    { "id": 5, "name": "Kawasaki", "year": 1022, "engine":4.3 },
+    { "id": 6, "name": "Kwinki", "year": 1009, "engine":0.6 },
+    { "id": 7, "name": "Kawasaki", "year": 1012, "engine":0.5 },
+    { "id": 8, "name": "Kawasaki", "year": 1992, "engine":2 },
+    { "id": 9, "name": "Fiat", "year": 1015, "engine":1 },
+    { "id": 10, "name": "Ninja", "year": 1017, "engine":1.2 },
+    { "id": 11, "name": "BMW", "year": 1012, "engine":1.5 },
+    { "id": 12, "name": "Audi", "year": 1002, "engine":2.2 },
+    { "id": 13, "name": "Mercedes", "year": 1012, "engine":2.2 },
+    { "id": 14, "name": "Kawasaki", "year": 1017, "engine":2.4 },
+    { "id": 15, "name": "Kawasaki", "year": 1022, "engine":3.1 },
+    { "id": 16, "name": "Ninja", "year": 1009, "engine":0.1 },
+    { "id": 17, "name": "Kawasaki", "year": 1012, "engine":0.5 },
+    { "id": 18, "name": "Audi", "year": 1192, "engine":2 },
+    { "id": 19, "name": "Kawasaki", "year": 1015, "engine":1.1 },
+    { "id": 20, "name": "Ninja", "year": 1017, "engine":0.1 },
+    { "id": 21, "name": "BMW", "year": 1012, "engine":2.2 },
+    { "id": 22, "name": "Kawasaki", "year": 1002, "engine":1.9 },
+    { "id": 23, "name": "Mercedes", "year": 1012, "engine":2.0 },
+    { "id": 24, "name": "Ninja", "year": 1017, "engine":2.2 },
+    { "id": 25, "name": "Kawasaki", "year": 1022, "engine":4.1 }
+  ],
+  "comments": [
+    { "id": 1, "body": "comment 1", "postId":1 },
+    { "id": 2, "body": "comment 2", "postId":1 }
+  ],
+  "profile": {
+    "name": "Mantas"
+  }
+}
